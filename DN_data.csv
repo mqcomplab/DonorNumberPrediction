@@ -1,0 +1,16 @@
+inert_solvent;reference_acid;solvent;donor_number
+DCE;SbCl5;DMSO;                 29.8
+DCE;SbCl5;Tetramethylurea;      29.6
+DCE;SbCl5;Methylpyrrolidinone;  27.3
+DCE;SbCl5;Methylformamide;      27.0
+DCE;SbCl5;Dimethylformamide;    26.6
+DCE;SbCl5;Formamide;            24.0
+DCE;SbCl5;Ethylene glycol;      20.0
+DCE;SbCl5;GBL;                  18.0
+DCE;SbCl5;EC;                   16.4
+DCE;SbCl5;DMC;                  16.0
+DCE;SbCl5;DEC;                  16.0
+DCE;SbCl5;PC;                   15.1
+DCE;SbCl5;Benzonitrile;         11.9
+DCE;SbCl5;Chloroform;           4.0
+DCE;SbCl5;Nitromethane;         2.7
