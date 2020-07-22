@@ -32,4 +32,4 @@ Please, cite both the associated manuscript:
 
 And this repository:
 
-DOI:
+DOI: (to be added after each release)
