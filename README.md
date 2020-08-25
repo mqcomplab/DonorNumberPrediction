@@ -35,7 +35,7 @@ Please, cite both the associated manuscript:
 
 And this repository:
 
-DOI: (to be added after each release)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3998765.svg)](https://doi.org/10.5281/zenodo.3998765)
 
 # Further reading
 Some relevant references are:
